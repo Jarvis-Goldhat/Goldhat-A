@@ -1,2 +1,6 @@
-A voicebased on https://mycroft.ai/ possibly on a serate node which activate object nodes such as google ai and through which access;
-Google, amazon, calender, home, assistant, sat nav, magic mirror, kodi,
+A voicebased, motion, on https://mycroft.ai/ possibly on a serate node which activate object nodes such as google ai and through which access;
+Google, amazon, calender, home, assistant, sat nav, magic mirror, kodi, security.
+Ok Mycroft, open google (then this access ok google) or alexa 
+Home automation, samsung smartthings set up automation and voice
+IFTTT set up automations and connections
+
