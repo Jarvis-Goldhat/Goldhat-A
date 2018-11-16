@@ -1,0 +1,2 @@
+A voicebased on https://mycroft.ai/ possibly on a serate node which activate object nodes such as google ai and through which access;
+Google, amazon, calender, home, assistant, sat nav, magic mirror, kodi,
